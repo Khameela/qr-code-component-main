@@ -39,13 +39,14 @@ p{
 }
 
 .container img {
-    width: 100%;
+    max-width: 100%;
     border-radius: 10px;
     
 }
 
 .bold {
-    font-weight: 700;
+    font-size: 1.5em;
+    text-align: center;
     color: hsl(218, 44%, 22%);
     padding: 20px 10px ;
  }
